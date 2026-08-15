@@ -1,0 +1,10 @@
+.Xil/
+*.jou
+*.log
+*.pb
+*.wdb
+*.bit
+*.dcp
+*.runs/
+*.cache/
+*.sim/
